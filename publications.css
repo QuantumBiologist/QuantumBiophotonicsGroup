@@ -41,3 +41,15 @@
   background-image: none;
   padding: 0;
 }
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 3596px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 62px;
+    margin-bottom: 10px;
+  }
+}
